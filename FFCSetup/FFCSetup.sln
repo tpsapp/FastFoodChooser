@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "FFCSetup", "FFCSetup.vdproj", "{933BDB5D-18CF-4EA2-ACB1-5F13FDB15FA3}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{933BDB5D-18CF-4EA2-ACB1-5F13FDB15FA3}.Debug.ActiveCfg = Debug
+		{933BDB5D-18CF-4EA2-ACB1-5F13FDB15FA3}.Debug.Build.0 = Debug
+		{933BDB5D-18CF-4EA2-ACB1-5F13FDB15FA3}.Release.ActiveCfg = Release
+		{933BDB5D-18CF-4EA2-ACB1-5F13FDB15FA3}.Release.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
