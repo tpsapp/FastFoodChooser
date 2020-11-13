@@ -1,4 +1,4 @@
-#FastFoodChooser
+# FastFoodChooser
 Created: 03/13/2008
 
 This is a small utility I created because I have a hard time deciding where to eat when I do not feel like cooking
